@@ -2,6 +2,6 @@ class NewTest{
 
     public static void main(String args[]){  
       
-	 System.out.println("Hello DEV"); 
+	 System.out.println("Hello World"); 
     }  
 }  
